@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name ="back_view_id" type = "id">false</item>
+    <item name ="front_view_id" type ="id">false</item>
+    <item name ="undo_dismiss" type="id">false</item>
+    <item name ="close_menu" type="id">false</item>
+    <item name ="edit_menu" type="id">false</item>
+    <item name ="delete_menu" type ="id">false</item>
+    <item name ="blank_view" type ="id">false</item>
+    <item name ="img_todo_id" type="id">false</item>
+</resources>
